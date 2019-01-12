@@ -1,0 +1,22 @@
+{
+  "name": "justexpress",
+  "version": "1.0.0",
+  "description": "just Express JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinba/justExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "BSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akinba/justExpress/issues"
+  },
+  "homepage": "https://github.com/akinba/justExpress#readme"
+}
